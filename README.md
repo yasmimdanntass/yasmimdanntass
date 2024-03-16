@@ -11,10 +11,6 @@
 - 💬 I'm a Portuguese, English, Spanish and beginner French speaker 
 - ⚡ Fun fact! I enjoy *writing* and *literature*, considering myself a science fiction nerd :)
 - 📚 I’m currently learning **Python** and **JavaScript**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
 
 ##
   
