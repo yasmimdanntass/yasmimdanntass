@@ -4,6 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D2AFFF&size=25&center=true&vCenter=False&width=1000&lines=it's+good+to+see+ya!)](https://git.io/typing-svg)
  ##
 ![yasmimdanntass's Stats](https://github-readme-stats.vercel.app/api?username=yasmimdanntass&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+![yasmimdanntass's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimdanntass&theme=nightowl&show_icons=true&hide_border=true&count_private=true")
 
 ##
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=10000000&color=F7F7F7&vCenter=true&random=false&width=435&lines=+%E2%86%93++Get+to+know+more+about+me+%E2%86%93+)](https://git.io/typing-svg)
