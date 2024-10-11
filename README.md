@@ -11,7 +11,7 @@
 - 🔭 I’m a software developer interested in **Natural Language Processing** and **Computer Vision**
 - 💬 I'm a Portuguese, English, Spanish and beginner French speaker 
 - ⚡ Fun fact! I enjoy *writing* and *literature*, considering myself a science fiction nerd :)
-- 📚 I’m currently learning **Python** and **JavaScript**
+- 📚 I’m currently learning **Python** and **Java**
 
 ##
   
