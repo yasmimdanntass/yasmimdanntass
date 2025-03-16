@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=D2AFFF&height=150&section=header&text=capsule%20render&fontSize=0)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D2AFFF&size=30&center=true&vCenter=False&width=1000&lines=%E2%9C%A8+hi!+I'm+yasmim+%E2%9C%A8)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D2AFFF&size=25&center=true&vCenter=False&width=1000&lines=it's+good+to+see+ya!)](https://git.io/typing-svg)
