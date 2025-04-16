@@ -1,43 +1,25 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=D2AFFF&size=30&center=true&vCenter=true&width=1000&lines=%E2%9C%A8+hi!+I'm+yasmim+%E2%9C%A8;it's+good+to+see+ya!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=D2AFFF&size=30&center=true&vCenter=false&width=1000&lines=%E2%9C%A8+hi!+I'm+yasmim+%E2%9C%A8"/>
+  </a><br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=D2AFFF&size=25&center=true&vCenter=false&width=1000&lines=it's+good+to+see+ya!"/>
   </a>
 </p>
-
-##
-
-<table align="center">
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmimdanntass&theme=nightowl&show_icons=true&hide_border=true&count_private=true"/>
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimdanntass&theme=nightowl&hide_border=true&count_private=true&layout=compact&langs_count=10"/>
-    </td>
-  </tr>
-</table>
-
-
-##
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=10000000&color=F7F7F7&vCenter=true&random=false&width=435&lines=+%E2%86%93++++Get+to+know+more+about+me+%E2%86%93+" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmimdanntass&theme=nightowl&show_icons=true&hide_border=true&count_private=true&v=1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimdanntass&theme=nightowl&hide_border=true&count_private=true&layout=compact&langs_count=10&v=1"/>
 </p>
+
+## 👇 Get to Know More About Me
 
 - 🔭 I’m a software developer interested in **Natural Language Processing** and **Computer Vision**  
-- 💬 I'm a Portuguese, English, Spanish and beginner French speaker  
-- ⚡ Fun fact! I enjoy *writing* and *literature*, considering myself a science fiction nerd :)  
-- 📚 I’m currently learning **Python**, **Java**, and **TypeScript**
+- 💬 I'm a **Portuguese**, **English**, **Spanish**, and **beginner French** speaker  
+- ⚡ Fun fact! I enjoy **writing** and **literature**, considering myself a **science fiction nerd** :)  
+- 📚 I’m currently learning **Python** and **Java**
 
-##
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=10000000&color=F7F7F7&vCenter=true&random=false&width=435&lines=+%E2%86%93++Languages+and+Tech+Stack+%E2%86%93+" />
-  </a>
-</p>
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -50,7 +32,7 @@
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 </p>
 
-##
+## 📱 Let's Connect
 
 <p align="center">
   <a href="https://instagram.com/yasmimdanntass" target="_blank">
