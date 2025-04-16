@@ -1,18 +1,22 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=D2AFFF&size=30&center=true&vCenter=false&width=1000&lines=%E2%9C%A8+hi!+I'm+yasmim+%E2%9C%A8"/>
-  </a><br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=D2AFFF&size=25&center=true&vCenter=false&width=1000&lines=it's+good+to+see+ya!"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=D2AFFF&size=30&center=true&vCenter=true&width=1000&lines=%E2%9C%A8+hi!+I'm+yasmim+%E2%9C%A8;it's+good+to+see+ya!" />
   </a>
 </p>
 
 ##
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmimdanntass&theme=nightowl&show_icons=true&hide_border=true&count_private=true&v=1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimdanntass&theme=nightowl&hide_border=true&count_private=true&layout=compact&langs_count=10&v=1"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmimdanntass&theme=nightowl&show_icons=true&hide_border=true&count_private=true"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimdanntass&theme=nightowl&hide_border=true&count_private=true&layout=compact&langs_count=10"/>
+    </td>
+  </tr>
+</table>
+
 
 ##
 
@@ -25,7 +29,7 @@
 - 🔭 I’m a software developer interested in **Natural Language Processing** and **Computer Vision**  
 - 💬 I'm a Portuguese, English, Spanish and beginner French speaker  
 - ⚡ Fun fact! I enjoy *writing* and *literature*, considering myself a science fiction nerd :)  
-- 📚 I’m currently learning **Python** and **Java**
+- 📚 I’m currently learning **Python**, **Java**, and **TypeScript**
 
 ##
 
@@ -58,3 +62,4 @@
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D2AFFF&height=150&section=footer"/>
+
