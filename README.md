@@ -15,7 +15,7 @@
 
 ## 👇 Get to Know More About Me
 
-- 🔭 I’m a software developer interested in **Natural Language Processing** and **Computer Vision**  
+- 🔭 I’m a software developer interested in **Natural Language Processing** and **Data Science**  
 - 💬 I'm a **Portuguese**, **English**, **Spanish**, and **beginner French** speaker  
 - ⚡ Fun fact! I enjoy **writing** and **literature**, considering myself a **science fiction nerd** :)  
 - 📚 I’m currently learning **Scalability in Machine Learning with Apache Spark** and **Retrieval Data Augmentation**
