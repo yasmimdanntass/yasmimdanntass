@@ -9,7 +9,6 @@
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yasmimdanntass&theme=nightowl&show_icons=true&hide_border=true&count_private=true&v=1"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimdanntass&theme=nightowl&hide_border=true&count_private=true&layout=compact&langs_count=10&v=1"/>
 </div>
 
 
