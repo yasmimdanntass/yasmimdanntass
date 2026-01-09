@@ -7,11 +7,6 @@
   </a>
 </p>
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yasmimdanntass&theme=nightowl&show_icons=true&hide_border=true&count_private=true&v=1"/>
-</div>
-
-
 ## 👇 Get to Know More About Me
 
 - 🔭 I’m a software developer interested in **Natural Language Processing** and **Data Science**  
