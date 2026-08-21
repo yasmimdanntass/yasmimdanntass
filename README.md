@@ -9,10 +9,10 @@
 
 ## 👇 Get to Know More About Me
 
-- 🔭 I’m a software developer interested in **Natural Language Processing** and **Data Science**  
-- 💬 I'm a **Portuguese**, **English**, **Spanish**, and **beginner French** speaker  
-- ⚡ Fun fact! I enjoy **writing** and **literature**, considering myself a **science fiction nerd** :)  
-- 📚 I’m currently learning **Scalability in Machine Learning with Apache Spark** and **Retrieval Data Augmentation**
+- I’m a software developer interested in **Natural Language Processing** and **Data Science**  
+- I'm a **Portuguese**, **English**, **Spanish**, and **beginner French** speaker  
+- Fun fact! I enjoy **writing** and **literature**, considering myself a **science fiction nerd** :)  
+- I’m currently learning **Scalability in Machine Learning with Apache Spark** and **Retrieval Data Augmentation**
 
 ## ⚙️ Tech Stack
 
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 </p>
 
-## 📱 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://instagram.com/yasmimdanntass" target="_blank">
