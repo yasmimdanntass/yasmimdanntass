@@ -1,12 +1,12 @@
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=D2AFFF&size=30&center=true&vCenter=false&width=1000&lines=%E2%9C%A8+hi!+I'm+yasmim+%E2%9C%A8"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=D2AFFF&size=30&center=true&vCenter=false&width=1000&duration=1&repeat=false&lines=%E2%9C%A8+hi!+I'm+yasmim+%E2%9C%A8"/>
   </a><br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=D2AFFF&size=25&center=true&vCenter=false&width=1000&lines=it's+good+to+see+ya!"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=D2AFFF&size=25&center=true&vCenter=false&width=1000&duration=1&repeat=false&lines=it's+good+to+see+ya!"/>
   </a>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yasmimdantas&color=D2AFFF&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
 </p>
